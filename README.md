@@ -4,6 +4,10 @@ This package is a Streamlit bidrectional component that wraps the JavaScript
 library Cytoscape.js. It can draw networks (a.k.a. graphs) and its API is very similar 
 to the JS package.
 
+## Instalation
+
+`pip install -i https://test.pypi.org/simple/ streamlit-bd-cytoscapejs`
+
 ## Parameters
 
 elements (dict):
